@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Clearing the errors since 2022...<br>📚 I'm currently exploring AI.<br>🎯 Goals: Travel around the world.<br>🎲 Fun fact: i got 650 elo in chess.com</p>
+<p align="left">✨ Clearing the errors since 2022...<br>📚 I'm currently exploring LLMs, RAG, LangChain.<br>🎯 Goals: Travel around the world.<br>🎲 Fun fact: i got 650 elo in chess.com</p>
 
 ###
 
