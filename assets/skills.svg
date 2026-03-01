@@ -1,0 +1,38 @@
+<svg width="495" height="225" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="495" height="225" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="22" y="35" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="#58a6ff">🧠 Skills &amp; Tools I Actually Use</text>
+  <line x1="22" y1="48" x2="473" y2="48" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Deep Learning & CV — 92% -->
+  <text x="22" y="70" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8b949e">Deep Learning &amp; CV</text>
+  <text x="460" y="70" font-family="'Courier New', monospace" font-size="11" fill="#58a6ff" text-anchor="end">92%</text>
+  <rect x="22" y="75" width="451" height="6" rx="3" fill="#21262d"/>
+  <rect x="22" y="75" width="415" height="6" rx="3" fill="#58a6ff"/>
+
+  <!-- LLMs & RAG — 88% -->
+  <text x="22" y="103" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8b949e">LLMs &amp; RAG</text>
+  <text x="460" y="103" font-family="'Courier New', monospace" font-size="11" fill="#3fb950" text-anchor="end">88%</text>
+  <rect x="22" y="108" width="451" height="6" rx="3" fill="#21262d"/>
+  <rect x="22" y="108" width="397" height="6" rx="3" fill="#3fb950"/>
+
+  <!-- Backend & APIs — 85% -->
+  <text x="22" y="136" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8b949e">Backend &amp; APIs</text>
+  <text x="460" y="136" font-family="'Courier New', monospace" font-size="11" fill="#d2a8ff" text-anchor="end">85%</text>
+  <rect x="22" y="141" width="451" height="6" rx="3" fill="#21262d"/>
+  <rect x="22" y="141" width="383" height="6" rx="3" fill="#d2a8ff"/>
+
+  <!-- Frontend — 78% -->
+  <text x="22" y="169" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8b949e">Frontend (React)</text>
+  <text x="460" y="169" font-family="'Courier New', monospace" font-size="11" fill="#ffa657" text-anchor="end">78%</text>
+  <rect x="22" y="174" width="451" height="6" rx="3" fill="#21262d"/>
+  <rect x="22" y="174" width="352" height="6" rx="3" fill="#ffa657"/>
+
+  <!-- Systems & C# — 72% -->
+  <text x="22" y="202" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8b949e">Systems (C#/.NET)</text>
+  <text x="460" y="202" font-family="'Courier New', monospace" font-size="11" fill="#f85149" text-anchor="end">72%</text>
+  <rect x="22" y="207" width="451" height="6" rx="3" fill="#21262d"/>
+  <rect x="22" y="207" width="325" height="6" rx="3" fill="#f85149"/>
+</svg>

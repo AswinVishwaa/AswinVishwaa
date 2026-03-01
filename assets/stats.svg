@@ -1,0 +1,35 @@
+<svg width="495" height="195" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="495" height="195" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Title bar -->
+  <text x="22" y="35" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="#58a6ff">📊 Aswin Vishwaa — AI/ML Stats</text>
+  <line x1="22" y1="48" x2="473" y2="48" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Col 1 -->
+  <text x="22" y="85"  font-family="'Courier New', monospace" font-size="26" font-weight="700" fill="#f0f6fc">₹10L</text>
+  <text x="22" y="103" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8b949e">Grant Funding Won</text>
+
+  <!-- Col 2 -->
+  <text x="185" y="85"  font-family="'Courier New', monospace" font-size="26" font-weight="700" fill="#f0f6fc">4+</text>
+  <text x="185" y="103" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8b949e">Awards &amp; Prizes</text>
+
+  <!-- Col 3 -->
+  <text x="348" y="85"  font-family="'Courier New', monospace" font-size="26" font-weight="700" fill="#f0f6fc">1</text>
+  <text x="348" y="103" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8b949e">IEEE Publication</text>
+
+  <!-- Divider -->
+  <line x1="22" y1="118" x2="473" y2="118" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Col 1 row 2 -->
+  <text x="22" y="150"  font-family="'Courier New', monospace" font-size="26" font-weight="700" fill="#f0f6fc">2.5+</text>
+  <text x="22" y="168" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8b949e">Years in AI/ML</text>
+
+  <!-- Col 2 row 2 -->
+  <text x="185" y="150"  font-family="'Courier New', monospace" font-size="26" font-weight="700" fill="#f0f6fc">7+</text>
+  <text x="185" y="168" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8b949e">Months @ Dobbe AI</text>
+
+  <!-- Col 3 row 2 -->
+  <text x="348" y="150"  font-family="'Courier New', monospace" font-size="26" font-weight="700" fill="#f0f6fc">3</text>
+  <text x="348" y="168" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#8b949e">Active Roles</text>
+</svg>
